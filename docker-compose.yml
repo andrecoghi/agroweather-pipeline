@@ -1,0 +1,49 @@
+version: '3.8'
+
+x-airflow-common: &airflow-common
+  image: apache/airflow:2.6.1
+  environment:
+    AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://admin:admin@postgres:5432/agroweather
+    AIRFLOW__CORE__LOAD_EXAMPLES: 'False'
+    PYTHONPATH: '/opt/airflow'
+  depends_on:
+    - postgres
+  volumes:
+    - ./airflow/dags:/opt/airflow/dags
+    - ./airflow/logs:/opt/airflow/logs
+    - ./airflow/plugins:/opt/airflow/plugins
+    - ./airflow/entrypoint.sh:/entrypoint.sh
+    - ./etl:/opt/airflow/etl
+    - ./data:/opt/airflow/data   # Mapeia a pasta data para dentro do container    
+  entrypoint: ["/bin/bash", "/entrypoint.sh"]
+
+services:
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: agroweather
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  airflow-webserver:
+    <<: *airflow-common
+    ports:
+      - "8080:8080"
+    command: webserver
+
+  airflow-scheduler:
+    <<: *airflow-common
+    command: scheduler
+
+  metabase:
+    image: metabase/metabase
+    ports:
+      - "3000:3000"
+
+volumes:
+  pgdata:

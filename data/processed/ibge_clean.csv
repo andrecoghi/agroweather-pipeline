@@ -1,0 +1,506 @@
+year,municipality,state,crop,harvested_area_ha,production_ton,value_thousand_reais
+2023,Springfield,CA,Soybean,1000,3000,5000
+2023,Riverside,CA,Corn,1500,4500,6750
+2022,Springfield,CA,Soybean,950,2850,4750
+2022,Madison,CA,Coffee,800,1200,3600
+2021,Franklin,CA,Sugar Cane,2000,8000,12000
+2022,Fairfield,CA,Cotton,2000,6894,10889
+2023,Franklin,CA,Wheat,1603,4053,7251
+2022,Riverside,CA,Cotton,2121,7584,11632
+2022,Springfield,CA,Coffee,830,1885,4493
+2021,Madison,CA,Corn,2249,6055,10721
+2023,Madison,CA,Coffee,590,2098,4209
+2022,Riverside,CA,Coffee,754,2921,6925
+2023,Springfield,CA,Cotton,861,2387,5094
+2022,Riverside,CA,Corn,574,1231,2074
+2023,Greenview,CA,Soybean,1944,6540,14090
+2021,Northfield,CA,Coffee,2152,7510,18225
+2021,Greenview,CA,Soybean,2015,5703,9878
+2023,Rosewood,CA,Barley,1566,5034,9900
+2022,Northfield,CA,Corn,2001,4465,7708
+2022,Franklin,CA,Barley,1451,5625,10815
+2023,Franklin,CA,Barley,1166,2396,4766
+2022,Riverside,CA,Barley,1104,2560,4738
+2021,Fairfield,CA,Wheat,2070,4994,9615
+2021,Springfield,CA,Barley,1904,3929,7189
+2021,Rosewood,CA,Soybean,1643,6443,13899
+2022,Fairfield,CA,Sugar Cane,1000,2629,5595
+2021,Springfield,CA,Cotton,1790,7135,11234
+2021,Riverside,CA,Wheat,1976,6754,14584
+2022,Madison,CA,Barley,1049,3774,8409
+2022,Madison,CA,Barley,1578,5849,11601
+2021,Greenview,CA,Wheat,1186,3700,5655
+2021,Riverside,CA,Wheat,1609,5444,8409
+2021,Springfield,CA,Coffee,1857,3943,5978
+2021,Rosewood,CA,Coffee,548,2037,3103
+2021,Franklin,CA,Cotton,2013,4464,8060
+2023,Rosewood,CA,Coffee,608,2201,4799
+2022,Franklin,CA,Soybean,1513,5026,10211
+2022,Riverside,CA,Soybean,2218,5799,9475
+2021,Franklin,CA,Sugar Cane,2427,5773,9639
+2021,Rosewood,CA,Sugar Cane,710,2748,5631
+2021,Fairfield,CA,Cotton,529,2004,3273
+2021,Northfield,CA,Barley,1201,3708,9105
+2022,Riverside,CA,Soybean,1514,4922,11062
+2022,Fairfield,CA,Barley,2134,5778,9995
+2022,Springfield,CA,Wheat,1241,4011,6212
+2022,Fairfield,CA,Sugar Cane,1977,7352,17476
+2021,Riverside,CA,Cotton,1423,3258,5282
+2021,Springfield,CA,Sugar Cane,1759,3532,7447
+2023,Franklin,CA,Barley,2452,9079,13644
+2021,Franklin,CA,Barley,2105,4623,9543
+2023,Greenview,CA,Cotton,917,3578,6618
+2022,Riverside,CA,Wheat,833,2487,3935
+2021,Riverside,CA,Soybean,1145,3475,5493
+2021,Riverside,CA,Sugar Cane,890,3021,6458
+2021,Riverside,CA,Wheat,2167,6295,11246
+2021,Riverside,CA,Sugar Cane,2333,7207,14009
+2023,Fairfield,CA,Barley,775,2221,4188
+2022,Madison,CA,Wheat,1408,4283,6671
+2022,Fairfield,CA,Barley,737,1563,3826
+2021,Riverside,CA,Sugar Cane,1005,3482,7316
+2021,Riverside,CA,Barley,2211,5693,9660
+2022,Fairfield,CA,Corn,2245,7471,11435
+2022,Greenview,CA,Wheat,1434,4518,7094
+2021,Springfield,CA,Soybean,2421,9540,18977
+2023,Rosewood,CA,Corn,1088,3317,7523
+2023,Springfield,CA,Wheat,1656,3316,7164
+2021,Springfield,CA,Corn,2404,7235,12029
+2022,Madison,CA,Sugar Cane,1954,7047,14282
+2022,Madison,CA,Cotton,846,2892,4394
+2022,Greenview,CA,Cotton,1401,4271,6489
+2022,Northfield,CA,Coffee,1529,5356,9064
+2022,Fairfield,CA,Sugar Cane,1045,2735,5543
+2023,Rosewood,CA,Wheat,2039,5570,10086
+2022,Northfield,CA,Coffee,1765,6448,12908
+2022,Springfield,CA,Corn,1236,2755,5781
+2021,Springfield,CA,Barley,988,3638,6359
+2022,Franklin,CA,Cotton,2264,4798,11086
+2022,Franklin,CA,Cotton,2467,5304,11603
+2022,Fairfield,CA,Corn,754,1743,4158
+2021,Rosewood,CA,Wheat,1334,4439,8234
+2022,Fairfield,CA,Sugar Cane,1867,5878,9783
+2021,Riverside,CA,Soybean,1564,3323,7304
+2022,Rosewood,CA,Wheat,1924,5010,11796
+2021,Franklin,CA,Sugar Cane,1804,4637,11005
+2023,Rosewood,CA,Coffee,727,2337,3643
+2022,Madison,CA,Wheat,2173,4513,8557
+2022,Northfield,CA,Cotton,1868,6589,14657
+2021,Greenview,CA,Cotton,1702,4999,7565
+2021,Rosewood,CA,Corn,1551,3134,7744
+2022,Madison,CA,Coffee,1940,5542,12076
+2022,Franklin,CA,Coffee,2362,5557,10508
+2022,Madison,CA,Corn,887,2952,5651
+2021,Madison,CA,Wheat,1753,3737,6574
+2021,Fairfield,CA,Soybean,1033,2537,5850
+2023,Riverside,CA,Sugar Cane,2061,8056,19953
+2022,Fairfield,CA,Barley,2150,4512,6997
+2022,Fairfield,CA,Corn,1604,6229,10061
+2022,Riverside,CA,Coffee,1336,4085,8105
+2023,Greenview,CA,Sugar Cane,2052,4240,10582
+2022,Riverside,CA,Barley,954,3800,6276
+2022,Greenview,CA,Corn,743,2255,3723
+2021,Rosewood,CA,Coffee,1286,3568,7160
+2023,Franklin,CA,Soybean,533,2070,4461
+2023,Fairfield,CA,Wheat,835,2751,5814
+2021,Rosewood,CA,Cotton,1939,5299,11754
+2023,Franklin,CA,Cotton,2038,7969,14970
+2022,Northfield,CA,Coffee,1986,6608,10876
+2023,Riverside,CA,Corn,744,2524,5463
+2023,Franklin,CA,Corn,1664,4508,10553
+2023,Rosewood,CA,Wheat,1578,5492,9382
+2022,Springfield,CA,Wheat,2268,4825,10672
+2021,Greenview,CA,Sugar Cane,1449,5406,9978
+2023,Madison,CA,Cotton,1404,4564,7176
+2021,Greenview,CA,Cotton,1788,5205,8418
+2023,Rosewood,CA,Barley,2286,8106,15266
+2022,Springfield,CA,Coffee,1258,4224,7009
+2022,Madison,CA,Barley,900,3563,6272
+2021,Springfield,CA,Soybean,1062,4165,9663
+2021,Northfield,CA,Sugar Cane,2056,4717,9745
+2022,Springfield,CA,Corn,1807,6583,11455
+2022,Riverside,CA,Wheat,1226,4275,9263
+2021,Greenview,CA,Coffee,2433,6680,14073
+2023,Fairfield,CA,Coffee,1629,4085,7777
+2022,Springfield,CA,Corn,682,1420,2231
+2021,Riverside,CA,Barley,1267,4952,12093
+2023,Northfield,CA,Cotton,1156,2405,4931
+2022,Northfield,CA,Barley,511,1686,3893
+2021,Greenview,CA,Barley,1053,3940,7989
+2022,Northfield,CA,Soybean,1351,5092,10754
+2023,Springfield,CA,Corn,2344,7256,12746
+2022,Fairfield,CA,Corn,793,2317,4889
+2023,Riverside,CA,Soybean,631,1678,3297
+2023,Fairfield,CA,Wheat,2143,7030,15303
+2022,Riverside,CA,Wheat,2064,7694,13589
+2023,Riverside,CA,Barley,908,3262,5588
+2021,Riverside,CA,Barley,1574,4274,10371
+2021,Northfield,CA,Corn,1256,3705,5829
+2023,Northfield,CA,Coffee,1222,2915,4532
+2021,Rosewood,CA,Corn,1944,7530,14774
+2021,Springfield,CA,Soybean,1326,3206,5129
+2023,Madison,CA,Corn,1104,2980,6419
+2022,Springfield,CA,Soybean,1280,4607,8004
+2022,Springfield,CA,Corn,1643,4244,6652
+2021,Greenview,CA,Soybean,1527,3172,6391
+2021,Northfield,CA,Wheat,2027,6867,13905
+2021,Northfield,CA,Cotton,2415,5566,10881
+2021,Rosewood,CA,Cotton,1014,2868,5600
+2022,Madison,CA,Soybean,1951,4021,8321
+2023,Riverside,CA,Barley,586,2211,4069
+2022,Rosewood,CA,Cotton,1456,4329,8578
+2023,Springfield,CA,Soybean,2303,5301,11411
+2021,Rosewood,CA,Sugar Cane,1322,5201,10240
+2021,Franklin,CA,Coffee,2308,5785,13193
+2023,Greenview,CA,Coffee,1555,5150,12053
+2021,Greenview,CA,Coffee,1709,5178,8908
+2022,Franklin,CA,Barley,549,1596,3857
+2021,Greenview,CA,Corn,2323,6385,10953
+2022,Springfield,CA,Wheat,1910,4840,10950
+2021,Springfield,CA,Cotton,1067,4133,7640
+2023,Madison,CA,Corn,2134,7443,13327
+2021,Franklin,CA,Barley,1509,4246,7179
+2022,Madison,CA,Wheat,1033,2920,6060
+2023,Fairfield,CA,Sugar Cane,2492,7935,18959
+2022,Riverside,CA,Cotton,1373,5459,12980
+2021,Northfield,CA,Sugar Cane,1549,4638,11028
+2021,Madison,CA,Corn,1696,4734,9775
+2022,Northfield,CA,Sugar Cane,1114,3132,4807
+2022,Fairfield,CA,Coffee,2170,8632,14115
+2023,Rosewood,CA,Wheat,1248,3803,8562
+2022,Northfield,CA,Coffee,1136,3320,6311
+2023,Rosewood,CA,Coffee,1898,4299,10035
+2023,Fairfield,CA,Sugar Cane,866,2708,6743
+2022,Franklin,CA,Wheat,1639,4065,10083
+2021,Greenview,CA,Barley,2365,7623,15201
+2022,Franklin,CA,Sugar Cane,1653,3605,7199
+2023,Riverside,CA,Cotton,1787,4644,8237
+2022,Fairfield,CA,Barley,1416,4690,9315
+2021,Madison,CA,Corn,1272,4819,7951
+2021,Franklin,CA,Coffee,1918,6200,13739
+2023,Greenview,CA,Sugar Cane,1862,6838,11162
+2023,Springfield,CA,Sugar Cane,1007,3365,5161
+2022,Springfield,CA,Cotton,951,3521,5813
+2023,Springfield,CA,Sugar Cane,1467,3662,6661
+2022,Franklin,CA,Soybean,861,2694,6722
+2021,Northfield,CA,Cotton,2134,7842,14950
+2022,Springfield,CA,Coffee,1029,3633,5512
+2022,Madison,CA,Soybean,1338,2817,5874
+2022,Madison,CA,Barley,1435,4014,9050
+2021,Rosewood,CA,Cotton,695,1709,3815
+2023,Franklin,CA,Barley,803,1715,3876
+2021,Greenview,CA,Corn,550,1939,3012
+2021,Fairfield,CA,Soybean,1317,5137,10432
+2023,Greenview,CA,Corn,2058,6790,12683
+2023,Rosewood,CA,Barley,984,2013,3887
+2022,Riverside,CA,Barley,2256,7198,17091
+2022,Franklin,CA,Wheat,2089,7436,15461
+2021,Springfield,CA,Sugar Cane,2096,4557,11036
+2023,Northfield,CA,Soybean,944,3071,6626
+2023,Riverside,CA,Barley,1460,3242,6493
+2023,Northfield,CA,Barley,1999,7946,14501
+2021,Northfield,CA,Sugar Cane,1047,2987,6995
+2023,Northfield,CA,Corn,1736,3640,8785
+2022,Greenview,CA,Coffee,2265,4871,7514
+2021,Franklin,CA,Sugar Cane,2262,8351,17805
+2021,Springfield,CA,Soybean,1093,3946,9027
+2021,Fairfield,CA,Sugar Cane,1284,4174,7938
+2022,Fairfield,CA,Wheat,2297,8477,18829
+2021,Springfield,CA,Sugar Cane,665,1635,3768
+2023,Madison,CA,Barley,2435,8946,14638
+2022,Riverside,CA,Wheat,1524,6046,9633
+2022,Greenview,CA,Coffee,1418,4221,8499
+2022,Greenview,CA,Cotton,2246,6547,11855
+2021,Fairfield,CA,Sugar Cane,966,2401,3674
+2022,Fairfield,CA,Barley,2106,5116,11937
+2022,Fairfield,CA,Sugar Cane,2207,5631,13269
+2021,Franklin,CA,Soybean,2395,6894,16712
+2022,Greenview,CA,Sugar Cane,824,2847,5992
+2022,Northfield,CA,Soybean,2446,6328,13380
+2022,Springfield,CA,Cotton,2027,7492,12284
+2023,Rosewood,CA,Corn,1793,4305,8176
+2022,Northfield,CA,Corn,1129,3210,5779
+2021,Springfield,CA,Cotton,1223,4387,8586
+2023,Madison,CA,Coffee,1273,3062,5355
+2023,Springfield,CA,Sugar Cane,1154,3245,6919
+2023,Rosewood,CA,Coffee,2299,7319,16362
+2022,Northfield,CA,Wheat,1761,5310,12781
+2023,Riverside,CA,Cotton,1270,4441,10026
+2023,Franklin,CA,Barley,2133,7703,18826
+2023,Riverside,CA,Barley,1402,4679,10872
+2022,Riverside,CA,Sugar Cane,820,2938,5551
+2023,Madison,CA,Coffee,2280,8547,15616
+2023,Greenview,CA,Cotton,837,3181,5391
+2021,Rosewood,CA,Sugar Cane,852,3018,5351
+2022,Greenview,CA,Sugar Cane,1597,4698,8396
+2023,Springfield,CA,Wheat,702,1635,2662
+2021,Greenview,CA,Corn,2168,5531,12852
+2021,Rosewood,CA,Wheat,1614,6196,12641
+2021,Riverside,CA,Cotton,1710,4123,9354
+2022,Rosewood,CA,Corn,626,1901,3380
+2022,Greenview,CA,Cotton,1423,3547,7745
+2023,Madison,CA,Cotton,1868,7441,15414
+2022,Fairfield,CA,Coffee,630,2218,5270
+2021,Riverside,CA,Coffee,587,1375,2219
+2022,Franklin,CA,Soybean,2370,7345,11708
+2023,Springfield,CA,Corn,1472,5318,8677
+2022,Springfield,CA,Barley,1266,3678,7538
+2021,Northfield,CA,Soybean,1338,3262,5711
+2021,Rosewood,CA,Corn,2449,7050,12781
+2022,Springfield,CA,Coffee,2388,5390,10553
+2022,Madison,CA,Sugar Cane,865,2219,5448
+2022,Greenview,CA,Coffee,1134,3731,8741
+2023,Riverside,CA,Cotton,1403,5476,11517
+2023,Springfield,CA,Coffee,1324,4904,8064
+2021,Springfield,CA,Barley,1661,4130,10324
+2021,Springfield,CA,Soybean,1020,3952,8952
+2022,Rosewood,CA,Soybean,2123,5585,9846
+2021,Northfield,CA,Cotton,2128,7819,14835
+2023,Franklin,CA,Cotton,1681,6643,11485
+2022,Northfield,CA,Sugar Cane,1701,4341,7709
+2022,Fairfield,CA,Barley,973,2706,5942
+2022,Northfield,CA,Soybean,1266,3645,6194
+2021,Franklin,CA,Coffee,590,1232,2894
+2022,Madison,CA,Coffee,899,2031,4170
+2022,Madison,CA,Cotton,2219,5496,11225
+2021,Madison,CA,Sugar Cane,2353,8356,19324
+2022,Northfield,CA,Coffee,615,1532,2361
+2023,Northfield,CA,Coffee,2062,6123,13080
+2023,Franklin,CA,Coffee,2178,6754,14571
+2023,Madison,CA,Corn,993,3838,7846
+2021,Northfield,CA,Cotton,2397,7644,19057
+2021,Madison,CA,Cotton,839,2176,4386
+2023,Springfield,CA,Sugar Cane,1033,2528,4012
+2023,Riverside,CA,Soybean,2436,6023,9974
+2022,Rosewood,CA,Corn,2339,8569,13394
+2022,Springfield,CA,Wheat,1053,2135,3336
+2022,Franklin,CA,Soybean,1130,4150,8305
+2021,Rosewood,CA,Corn,2390,8079,19792
+2022,Fairfield,CA,Barley,1121,2659,4843
+2023,Fairfield,CA,Wheat,1770,5010,11946
+2022,Northfield,CA,Coffee,1909,6518,15991
+2021,Franklin,CA,Corn,2101,7787,12606
+2022,Fairfield,CA,Wheat,2415,5560,10432
+2023,Greenview,CA,Coffee,780,2716,4840
+2023,Springfield,CA,Sugar Cane,1375,4089,8634
+2021,Riverside,CA,Sugar Cane,2008,6186,13403
+2022,Greenview,CA,Soybean,725,2535,5332
+2022,Fairfield,CA,Sugar Cane,687,2510,4083
+2023,Greenview,CA,Wheat,1950,6706,11225
+2021,Greenview,CA,Wheat,1180,4101,9842
+2021,Riverside,CA,Wheat,2124,7772,16428
+2023,Rosewood,CA,Soybean,1037,3437,7730
+2022,Rosewood,CA,Cotton,656,1635,3534
+2021,Riverside,CA,Wheat,2111,7648,19056
+2022,Rosewood,CA,Wheat,1197,3646,6704
+2022,Springfield,CA,Soybean,1820,5224,8901
+2022,Fairfield,CA,Wheat,604,1961,4732
+2022,Madison,CA,Cotton,661,2529,4240
+2023,Rosewood,CA,Wheat,1777,5918,11584
+2022,Springfield,CA,Soybean,733,2559,5898
+2021,Madison,CA,Wheat,1852,6744,11505
+2021,Franklin,CA,Soybean,2076,7149,12397
+2021,Madison,CA,Soybean,1339,3157,5898
+2023,Fairfield,CA,Soybean,1898,7530,15729
+2023,Madison,CA,Wheat,896,2298,5612
+2022,Madison,CA,Soybean,2346,6876,13640
+2021,Madison,CA,Barley,1666,3351,7765
+2021,Riverside,CA,Sugar Cane,609,1847,3247
+2021,Springfield,CA,Cotton,852,2306,5322
+2021,Greenview,CA,Coffee,1940,5012,11853
+2023,Riverside,CA,Wheat,1453,5373,13383
+2021,Greenview,CA,Barley,1559,4618,10166
+2022,Rosewood,CA,Barley,2017,7490,17973
+2021,Springfield,CA,Wheat,2326,7017,14437
+2021,Madison,CA,Soybean,2099,5329,12872
+2022,Madison,CA,Sugar Cane,920,3547,5672
+2022,Fairfield,CA,Sugar Cane,643,1473,2826
+2022,Riverside,CA,Sugar Cane,628,1629,2735
+2021,Northfield,CA,Cotton,589,1659,3628
+2023,Riverside,CA,Coffee,2400,8350,13691
+2022,Greenview,CA,Barley,1083,2974,7378
+2023,Rosewood,CA,Coffee,1084,3175,5727
+2023,Riverside,CA,Coffee,549,1532,2915
+2023,Riverside,CA,Sugar Cane,711,1907,3883
+2022,Franklin,CA,Coffee,630,1392,3134
+2021,Franklin,CA,Barley,2221,6269,11399
+2022,Rosewood,CA,Cotton,1683,5846,10685
+2023,Springfield,CA,Wheat,1314,2699,4321
+2022,Springfield,CA,Cotton,1650,3918,6878
+2022,Madison,CA,Corn,1589,4967,12095
+2023,Madison,CA,Sugar Cane,2031,8087,19108
+2021,Fairfield,CA,Sugar Cane,1968,7001,14189
+2022,Fairfield,CA,Coffee,894,2992,5827
+2021,Northfield,CA,Soybean,843,2310,5451
+2022,Northfield,CA,Wheat,1098,2762,4801
+2022,Madison,CA,Wheat,748,2646,5785
+2023,Fairfield,CA,Corn,1929,4603,9917
+2021,Greenview,CA,Coffee,1779,5445,11675
+2021,Rosewood,CA,Barley,1653,4333,10060
+2021,Madison,CA,Soybean,881,1779,3793
+2022,Fairfield,CA,Sugar Cane,636,2374,4311
+2021,Madison,CA,Wheat,1034,2577,3877
+2023,Franklin,CA,Cotton,974,3656,8179
+2021,Springfield,CA,Cotton,2222,8453,19880
+2022,Greenview,CA,Sugar Cane,1403,3768,8727
+2023,Rosewood,CA,Cotton,2471,6940,11480
+2022,Franklin,CA,Wheat,1569,6028,12998
+2022,Rosewood,CA,Cotton,2473,5305,12753
+2021,Greenview,CA,Cotton,1510,4283,9474
+2022,Franklin,CA,Sugar Cane,1467,5774,11023
+2022,Greenview,CA,Coffee,891,1934,4207
+2023,Riverside,CA,Soybean,1081,2334,5290
+2022,Rosewood,CA,Coffee,914,1962,3560
+2023,Riverside,CA,Coffee,2096,6345,13119
+2022,Springfield,CA,Barley,1458,3053,7316
+2023,Greenview,CA,Barley,1447,4505,8613
+2022,Rosewood,CA,Cotton,2336,8504,16342
+2021,Madison,CA,Corn,2053,6866,13055
+2023,Springfield,CA,Wheat,1782,6848,15606
+2022,Northfield,CA,Sugar Cane,2063,6978,14986
+2021,Rosewood,CA,Wheat,2466,6050,12892
+2022,Madison,CA,Wheat,1244,4371,7319
+2023,Madison,CA,Soybean,1838,4548,7225
+2023,Greenview,CA,Coffee,2441,8601,14410
+2021,Northfield,CA,Soybean,2472,6782,16739
+2021,Riverside,CA,Cotton,1631,5224,10427
+2022,Springfield,CA,Coffee,2068,8171,20176
+2023,Franklin,CA,Corn,1711,4421,8048
+2021,Springfield,CA,Wheat,1824,5784,10402
+2023,Rosewood,CA,Sugar Cane,1093,4327,10112
+2023,Riverside,CA,Soybean,2375,5409,12978
+2022,Riverside,CA,Barley,1658,4125,10221
+2021,Springfield,CA,Soybean,1521,5235,9995
+2023,Franklin,CA,Coffee,2106,5931,11133
+2022,Springfield,CA,Barley,1149,4162,7786
+2021,Greenview,CA,Barley,2086,4692,9700
+2021,Franklin,CA,Soybean,1148,2987,4685
+2022,Northfield,CA,Corn,1087,2197,4859
+2023,Riverside,CA,Corn,1604,3352,6311
+2021,Greenview,CA,Sugar Cane,2073,6691,14666
+2023,Rosewood,CA,Cotton,1400,2933,5885
+2022,Greenview,CA,Barley,1076,3871,5807
+2022,Riverside,CA,Barley,2386,5384,11042
+2021,Madison,CA,Barley,1524,5166,9445
+2021,Northfield,CA,Corn,2250,5320,11298
+2022,Springfield,CA,Wheat,1861,7426,11846
+2021,Madison,CA,Coffee,550,1143,2294
+2023,Franklin,CA,Barley,865,2969,6266
+2022,Northfield,CA,Sugar Cane,2175,7289,17977
+2023,Madison,CA,Soybean,1287,2641,5854
+2021,Rosewood,CA,Wheat,1594,4040,7563
+2023,Franklin,CA,Cotton,940,2773,4574
+2021,Greenview,CA,Sugar Cane,1926,6618,13760
+2023,Fairfield,CA,Cotton,1985,5794,13103
+2022,Madison,CA,Barley,1784,4934,11427
+2023,Madison,CA,Coffee,2054,7376,12119
+2022,Springfield,CA,Corn,1379,4527,10307
+2021,Rosewood,CA,Soybean,1326,3800,8058
+2022,Franklin,CA,Wheat,2222,8668,16143
+2023,Riverside,CA,Corn,1423,5058,9321
+2021,Springfield,CA,Sugar Cane,1674,4298,7201
+2022,Riverside,CA,Barley,690,1393,2930
+2021,Rosewood,CA,Corn,1888,6657,15062
+2022,Greenview,CA,Coffee,727,2798,4353
+2023,Springfield,CA,Barley,528,1907,4525
+2023,Riverside,CA,Coffee,1622,6088,10073
+2023,Franklin,CA,Sugar Cane,1677,3792,9199
+2022,Northfield,CA,Cotton,623,1948,4237
+2022,Fairfield,CA,Cotton,661,2101,3757
+2023,Rosewood,CA,Corn,1783,4300,6671
+2021,Rosewood,CA,Coffee,2458,8656,15687
+2022,Fairfield,CA,Barley,1430,5482,13564
+2022,Northfield,CA,Coffee,1520,4964,9725
+2021,Fairfield,CA,Corn,1286,3275,5807
+2021,Northfield,CA,Wheat,2090,4728,7555
+2022,Franklin,CA,Coffee,2415,8883,20071
+2021,Madison,CA,Wheat,836,3063,6976
+2022,Franklin,CA,Barley,765,2270,5402
+2022,Franklin,CA,Sugar Cane,2004,6839,16549
+2022,Northfield,CA,Sugar Cane,1467,3878,7152
+2022,Greenview,CA,Soybean,2172,5364,10303
+2023,Rosewood,CA,Soybean,2216,6260,13432
+2022,Springfield,CA,Barley,1499,5249,12238
+2023,Madison,CA,Barley,2062,7038,16296
+2021,Springfield,CA,Corn,752,1895,4232
+2023,Springfield,CA,Corn,1091,3402,6356
+2022,Northfield,CA,Soybean,1229,4031,7167
+2023,Madison,CA,Soybean,2059,7982,15164
+2022,Springfield,CA,Soybean,2143,6988,14326
+2021,Franklin,CA,Cotton,697,2296,4827
+2021,Greenview,CA,Barley,595,2244,5575
+2023,Springfield,CA,Sugar Cane,1621,6113,12871
+2022,Franklin,CA,Wheat,1556,5747,9518
+2023,Springfield,CA,Coffee,2445,6470,9806
+2021,Springfield,CA,Cotton,1213,4637,10798
+2022,Franklin,CA,Cotton,1606,5136,11965
+2022,Fairfield,CA,Coffee,2128,6657,11209
+2023,Franklin,CA,Corn,1223,3139,7112
+2022,Northfield,CA,Barley,2458,5192,11283
+2021,Rosewood,CA,Wheat,512,1710,3059
+2021,Greenview,CA,Sugar Cane,1024,2254,4229
+2021,Northfield,CA,Cotton,1627,4317,7171
+2022,Greenview,CA,Coffee,1945,6383,10662
+2022,Franklin,CA,Coffee,2033,7768,19086
+2021,Fairfield,CA,Corn,961,2486,4095
+2022,Franklin,CA,Wheat,1446,4830,10244
+2022,Springfield,CA,Coffee,732,1852,3237
+2022,Fairfield,CA,Coffee,1450,4865,11960
+2022,Franklin,CA,Coffee,2261,8178,12403
+2023,Northfield,CA,Barley,743,1930,3439
+2023,Franklin,CA,Barley,881,3384,7129
+2023,Riverside,CA,Corn,897,2126,3631
+2022,Franklin,CA,Wheat,1528,3060,4689
+2022,Madison,CA,Sugar Cane,1752,6612,10600
+2023,Riverside,CA,Cotton,504,1481,2714
+2022,Madison,CA,Soybean,2148,4563,8729
+2021,Fairfield,CA,Corn,1612,3578,7424
+2021,Riverside,CA,Coffee,535,1877,3619
+2022,Greenview,CA,Coffee,2487,8197,13808
+2021,Franklin,CA,Soybean,1564,5628,14032
+2022,Rosewood,CA,Cotton,664,1780,3488
+2022,Fairfield,CA,Cotton,741,2279,3756
+2022,Madison,CA,Sugar Cane,1176,3387,5086
+2021,Franklin,CA,Sugar Cane,1316,4032,7802
+2022,Springfield,CA,Wheat,1712,3429,6986
+2022,Franklin,CA,Corn,2036,6868,13075
+2023,Madison,CA,Coffee,1366,2740,5725
+2021,Rosewood,CA,Barley,1914,4965,9283
+2023,Riverside,CA,Sugar Cane,1438,4647,8425
+2023,Northfield,CA,Wheat,558,1154,2728
+2022,Springfield,CA,Sugar Cane,645,2184,4539
+2023,Franklin,CA,Sugar Cane,2329,8357,14462
+2021,Rosewood,CA,Barley,1951,7623,16100
+2022,Riverside,CA,Coffee,1183,2832,5227
+2021,Franklin,CA,Sugar Cane,881,3215,6762
+2022,Franklin,CA,Soybean,688,2162,4513
+2022,Northfield,CA,Corn,2393,8323,17722
+2021,Northfield,CA,Coffee,1801,4450,10384
+2023,Springfield,CA,Wheat,1294,4113,6871
+2023,Springfield,CA,Wheat,2458,8144,17583
+2023,Madison,CA,Barley,1150,4521,9629
+2022,Northfield,CA,Wheat,1727,4785,9924
+2023,Riverside,CA,Barley,1345,4347,9948
+2022,Franklin,CA,Coffee,2202,7782,19396
+2022,Riverside,CA,Sugar Cane,2500,7830,16231
+2023,Riverside,CA,Soybean,1979,6827,13959
+2023,Fairfield,CA,Soybean,1082,3303,7403
+2022,Northfield,CA,Sugar Cane,636,2310,4003
+2021,Franklin,CA,Soybean,2422,8474,17252
+2022,Rosewood,CA,Sugar Cane,583,2318,5560
+2022,Fairfield,CA,Barley,2067,4314,9380
+2022,Rosewood,CA,Corn,2440,7768,12385
+2021,Franklin,CA,Barley,989,2654,6631
+2021,Franklin,CA,Cotton,2158,5112,8205
+2022,Franklin,CA,Barley,512,1355,2174
+2022,Greenview,CA,Wheat,1332,3014,4764
+2022,Franklin,CA,Cotton,1774,6775,15149
+2023,Madison,CA,Cotton,1634,5142,7841
+2021,Franklin,CA,Corn,533,1215,2810
+2022,Riverside,CA,Wheat,1743,6423,10691
+2021,Madison,CA,Barley,1571,5742,9439
+2023,Franklin,CA,Sugar Cane,1383,4318,8066
+2023,Springfield,CA,Sugar Cane,1754,5523,10511
+2021,Greenview,CA,Corn,1374,3171,6697
+2023,Madison,CA,Wheat,1161,3981,8980
+2023,Riverside,CA,Cotton,1442,5452,10820

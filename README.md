@@ -68,7 +68,7 @@ cd agroweather-pipeline
 
 2. Start the services:
 ```bash
-docker-compose up -d
+docker-compose up -d --build
 ```
 
 3. Access the applications:
